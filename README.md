@@ -57,7 +57,7 @@ I'm a pre-final year Computer Science student at **Dhanekula Institute of Engine
 | Project | Description | Stack |
 |---|---|---|
 | [🧠 Autonomous Cognitive Engine](https://github.com/Arunika7/Autonomous_Cognitive_Engine) | 6-agent deep research system with Virtual File System, LangSmith audit trail, served via FastAPI | LangGraph · Groq (LLaMA-3.3-70B) · FastAPI · LangSmith |
-| [🏥 AAYUSH Medical Chatbot](https://github.com/Arunika7/AAYUSH) | Multimodal assistant that analyses X-rays & MRI scans and answers clinical queries | Gemini 1.5 Flash · Streamlit · PIL |
+| [🏥 AAYUSH Medical Chatbot](https://github.com/Arunika7/AAYUSH-AI-Medical-Assistant) | Multimodal assistant that analyses X-rays & MRI scans and answers clinical queries | Gemini 1.5 Flash · Streamlit · PIL |
 | [🤖 Mars — AI Robot Assistant](https://github.com/Arunika7/Mars) | Real-time animated robot with lip-sync, emotion expressions, and voice I/O | OpenCV · Gemini API · pyttsx3 |
 | [📊 FreshMart GenAI Retention System](https://github.com/Arunika7/GenAI_Retention_System) | Full-stack churn prediction platform with GenAI retention narratives and React dashboard | FastAPI · React 18 · Random Forest · OpenTelemetry |
 | [📷 Camera Blocking Detection](https://github.com/Arunika7/Camera_Blocking_Alert) | Real-time blockage detection via frame clarity & FPS analysis — Finalist at SafeDrive Hack 2025 | Python · OpenCV |
