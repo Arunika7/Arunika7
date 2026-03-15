@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/arunika-gudipalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arunika789@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Arunika7&style=flat&color=6366f1" alt="profile views"/>
 </p>
 
 ---
