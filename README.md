@@ -4,10 +4,9 @@
   <a href="https://linkedin.com/in/arunika-gudipalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arunika789@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
----
 
 ### About Me
-I'm a pre-final year Computer Science student at **Dhanekula Institute of Engineering and Technology (DIET)**, Vijayawada, specialising in AI systems, cloud infrastructure, and full-stack development. I build end-to-end AI-powered applications - from multi-agent research engines to multimodal medical assistants - with a focus on production-ready architecture and real-world impact.
+I'm a final year Computer Science student at **Dhanekula Institute of Engineering and Technology (DIET)**, Vijayawada, specialising in AI systems, cloud infrastructure, and full-stack development. I build end-to-end AI-powered applications - from multi-agent research engines to multimodal medical assistants - with a focus on production-ready architecture and real-world impact.
 
 - 🏆 **AICTE NCET Rank 1** out of 333 candidates
 - 🤖 Currently training at **Calibo AI Academy** (selected 1 of 22 from 311 candidates)
@@ -81,8 +80,7 @@ I'm a pre-final year Computer Science student at **Dhanekula Institute of Engine
 ### 🌱 Currently Working On
 - Building more complex **multi-agent systems** with LangGraph and LangSmith
 - Deepening knowledge of **Kafka, Docker, and Kubernetes** through Calibo AI Academy
-- Expanding **ML pipelines** and data processing workflows via Infosys Springboard (115+ hrs)
-- Preparing for **software/AI engineering roles** - open to internship and full-time opportunities from 2027
+- Preparing for **software/AI engineering roles** - open to internship and full-time opportunities 
 
 ---
 
