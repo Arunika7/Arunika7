@@ -70,8 +70,7 @@ I'm a final year Computer Science student at **Dhanekula Institute of Engineerin
 - OCI AI Foundations - *Oracle*
 - TCS ION Young Professional
 - Front-End Development - *Infosys Springboard*
-- Python Foundations - *Infosys*
-- Cloud Computing Foundations - *Google Cloud*
+- Python Foundations - *Infosys Springboard*
 - Google Cloud Career Launchpad - Computing Foundations
 - Software Testing - *NPTEL*
 
